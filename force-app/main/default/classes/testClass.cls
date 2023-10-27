@@ -1,5 +1,6 @@
 public with sharing class testClass {
-    public testClass1() {
+    public testClass() {
         System.debug('Hello');
+        system.debug('Hello1')
     }
 }
